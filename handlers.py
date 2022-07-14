@@ -84,6 +84,7 @@ def binary_command(update: Update, context: CallbackContext) -> None:
     update.message.reply_text(
         text=static_text.conversion_type,
         reply_markup=reply_markup,
+        parse_mode="HTML",
     )
 
 

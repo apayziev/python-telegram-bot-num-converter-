@@ -12,7 +12,7 @@ conversion_to_octal = "Conversion to octal 🔢"
 conversion_to_decimal = "Conversion to decimal 🔢"
 conversion_to_hexadecimal = "Conversion to hexadecimal 🔢"
 convertion_command_text = "<i>Choose a number system to convert:</i>"
-conversion_type = "<b>Which conversion do you need? 🔻</b>"
+conversion_type = "<b>Which conversion do you need?🔻</b>"
 
 binary_to_octal = "Binary to Octal"
 binary_to_decimal = "Binary to Decimal"
